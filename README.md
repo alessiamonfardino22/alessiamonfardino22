@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alessiamonfardino22
 - 👀 I’m interested in entrepreneurship 
-- 🌱 I’m currently learning Python
+- 🌱 I’m a Data Analyst with a passion for Business Development
 - 📫 How to reach me: alessiamonfardino22@gmail.com
 
 <!---
